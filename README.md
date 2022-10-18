@@ -1,2 +1,2 @@
 # Codewars---Python
-Complete beginner :)
+Complete beginner: playing with Codewars :)
