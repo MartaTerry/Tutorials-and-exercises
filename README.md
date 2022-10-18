@@ -1,2 +1,2 @@
-# Tutorials-and-exercises
-Python exercises from books, Udemy, Coursera...
+# Codewars---Python
+Complete beginner :)
